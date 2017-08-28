@@ -15,7 +15,7 @@ public class esp
 		
 	}
 	
-	static int gradesMean(int [] grades)
+	static double gradesMean(int [] grades)
 	{
 		
 	}
@@ -31,7 +31,7 @@ public class esp
 	}
 	
 	//extra credit---remove this function if you don't do the EC
-	static int gradesStandardDev(int [] grades)
+	static double gradesStandardDev(int [] grades)
 	{
 		
 	}
