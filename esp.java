@@ -20,7 +20,7 @@ public class esp
 		
 	}
 	
-	static int gradesMedian(int [] grades)
+	static double gradesMedian(int [] grades)
 	{
 		
 	}
